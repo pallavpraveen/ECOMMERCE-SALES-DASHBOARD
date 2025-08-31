@@ -7,8 +7,7 @@ A dynamic and interactive Power BI dashboard to visualize and analyze year-to-da
 
 ##  Purpose
 
-The Ecommerce Sales Dashboard provides actionable YTD sales metrics and insights for a leading US ecommerce company. Integrating Power BI with MS SQL Server enables detailed analysis of sales, profit, quantities, and regional trends to optimize business decision-making[attached_image:3].
-
+The Ecommerce Sales Dashboard provides actionable YTD sales metrics and insights for a leading US ecommerce company. Integrating Power BI with MS SQL Server enables detailed analysis of sales, profit, quantities, and regional trends to optimize business decision-making.
 ## Tech Stack
 
 - 📊 **Power BI Desktop** – Visualization and dashboard creation
