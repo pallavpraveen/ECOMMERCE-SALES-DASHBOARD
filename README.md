@@ -3,11 +3,11 @@
 ## Project Title / Headline
 
 **📦 Ecommerce Sales Analytics: US-Based Company Sales Dashboard**  
-A dynamic and interactive Power BI dashboard to visualize and analyze year-to-date (YTD) sales data for a US ecommerce retailer, focusing on KPI tracking, regional performance, product rankings, and customer segments[attached_image:1][attached_image:2].
+A dynamic and interactive Power BI dashboard to visualize and analyze year-to-date (YTD) sales data for a US ecommerce retailer, focusing on KPI tracking, regional performance, product rankings, and customer segments.
 
-## Short Description / Purpose
+##  Purpose
 
-The Ecommerce Sales Dashboard provides actionable YTD sales metrics and insights for a leading US ecommerce company. Integrating Power BI with MS SQL Server enables detailed analysis of sales, profit, quantities, and regional trends to optimize business decision-making[attached_image:3][attached_image:4].
+The Ecommerce Sales Dashboard provides actionable YTD sales metrics and insights for a leading US ecommerce company. Integrating Power BI with MS SQL Server enables detailed analysis of sales, profit, quantities, and regional trends to optimize business decision-making[attached_image:3].
 
 ## Tech Stack
 
@@ -16,8 +16,7 @@ The Ecommerce Sales Dashboard provides actionable YTD sales metrics and insights
 - 🔌 **Power Query** – Data extraction, transformation, and cleaning
 - 🧠 **DAX (Data Analysis Expressions)** – KPI calculations and dynamic measures
 - 📝 **Data Modeling** – Integrating sales, product, customer, region, and date tables
-- 📁 **File Formats** – `.pbix` (dashboard), `.png` (reports/screenshots)[attached_image:1]
-
+- 📁 **File Formats** – `.pbix` (dashboard), `.png` (reports/screenshots)
 ## Data Source
 
 All data is sourced from internal ecommerce sales databases and imported into MS SQL Server. Tables include sales transactions, products, customers, regions, and dates. Key metrics tracked are sales, profit, quantity, profit margin, and category details.
@@ -35,12 +34,12 @@ All data is sourced from internal ecommerce sales databases and imported into MS
     - *Category-wise Sales Table*: YTD, PYTD, YoY growth plus trend icons for each category
     - *Top/Bottom Products Bar Charts*: Product-level leaders and laggards by sales
     - *Sales by State Map*: Visual geographic breakdown of sales
-    - *Regional & Shipping Insights*: Pie charts for YTD sales by region and shipping type[attached_image:4]
+    - *Regional & Shipping Insights*: Pie charts for YTD sales by region and shipping type
 
 - **Business Impact & Insights**
     - Identify sales strengths and weaknesses by category, region, or shipping type
     - Inform product focus and logistics strategy
-    - Optimize profitability and operational efficiency[attached_image:3][attached_image:4]
+    - Optimize profitability and operational efficiency
 
 ## Screenshots / Demos
 
