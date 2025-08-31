@@ -1,8 +1,7 @@
 # Ecommerce Sales Dashboard
 
-## Project Title / Headline
+## 📦 Ecommerce Sales Analytics: US-Based Company Sales Dashboard
 
-**📦 Ecommerce Sales Analytics: US-Based Company Sales Dashboard**  
 A dynamic and interactive Power BI dashboard to visualize and analyze year-to-date (YTD) sales data for a US ecommerce retailer, focusing on KPI tracking, regional performance, product rankings, and customer segments.
 
 ##  Purpose
